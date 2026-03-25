@@ -52,11 +52,11 @@
             officia, error reiciendis ab quod?</p>
         </div>
       </div>
-      <div class="row">
-        <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
+      <div class="row justify-content-center">
+        <div class="col-md-6 col-lg-5 mb-5 mb-lg-5">
           <div class="team-member">
 
-            <img src="{{ asset('images/person_1.png') }}" alt="Stewart Donovan" class="img-fluid">
+            <img src="{{ asset('images/placeholder-person.svg') }}" alt="Stewart Donovan" class="img-fluid">
 
             <div class="text">
 
@@ -77,10 +77,10 @@
           </div>
         </div>
 
-        <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
+        <div class="col-md-6 col-lg-5 mb-5 mb-lg-5">
           <div class="team-member">
 
-            <img src="{{ asset('images/person_2.jpg') }}" alt="Derek Donovan" class="img-fluid">
+            <img src="{{ asset('images/placeholder-person.svg') }}" alt="Derek Donovan" class="img-fluid">
 
             <div class="text">
 
@@ -95,28 +95,6 @@
                 <a href="mailto:Derek084@outlook.com" class="text-white p-2"><span class="icon-envelope"></span></a>
                 <a href="tel:+447777126069" class="text-white p-2"><span class="icon-phone"></span></a>
                 <a href="mailto:Sdonovan300@hotmail.com" class="text-white p-2"><span class="icon-briefcase"></span></a>
-              </p>
-            </div>
-
-          </div>
-        </div>
-
-        <div class="col-md-6 col-lg-4 mb-5 mb-lg-5">
-          <div class="team-member">
-
-            <img src="{{ asset('images/person_3.jpg') }}" alt="Michael SD" class="img-fluid">
-
-            <div class="text">
-
-              <h2 class="mb-2 font-weight-light h4">Michael SD</h2>
-              <span class="d-block mb-2 text-white-opacity-05">Founder & CEO</span>
-              <p class="mb-4">
-                <span class="d-block"><span class="icon-map mr-1"></span> 6 Triangle Place, SW4 7HS, London</span>
-                <span class="d-block"><span class="icon-envelope mr-1"></span> Sdonovan300@hotmail.com</span>
-              </p>
-              <p>
-                <a href="mailto:Sdonovan300@hotmail.com" class="text-white p-2"><span class="icon-envelope"></span></a>
-                <a href="#" class="text-white p-2"><span class="icon-linkedin"></span></a>
               </p>
             </div>
 

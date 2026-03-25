@@ -10,18 +10,7 @@
       
       <div class="text-center p-3 p-md-5 bg-white">
         <div class="mb-4">            
-          <img src="{{ asset('images/person_1.png') }}" alt="Michael SD" class="w-50 mx-auto img-fluid rounded-circle">
-        </div>
-        <div class="text-black">
-          <h3 class="font-weight-light h5">Michael SD</h3>
-          <h6 class="font-weight-light h6">Founder &amp; CEO</h6>
-          <p class="font-italic">&ldquo;With nearly a decade of experience in real estate, Michael SD &amp; Partners has built lasting relationships with landlords and clients, helping them secure the best opportunities while expanding the SD &amp; Partners Properties portfolio. His dedication to providing personalized service and fostering strong connections has been key to the company's continued growth in the luxury market.&rdquo;</p>
-        </div>
-      </div>
-
-      <div class="text-center p-3 p-md-5 bg-white">
-        <div class="mb-4">            
-          <img src="{{ asset('images/person_2.jpg') }}" alt="Stewart Donovan" class="w-50 mx-auto img-fluid rounded-circle">
+          <img src="{{ asset('images/placeholder-person.svg') }}" alt="Stewart Donovan" class="w-50 mx-auto img-fluid rounded-circle">
         </div>
         <div class="text-black">
           <h3 class="font-weight-light h5">Stewart Donovan</h3>
@@ -32,7 +21,7 @@
 
       <div class="text-center p-3 p-md-5 bg-white">
         <div class="mb-4">            
-          <img src="{{ asset('images/person_3.jpg') }}" alt="Derek Donovan" class="w-50 mx-auto img-fluid rounded-circle">
+          <img src="{{ asset('images/placeholder-person.svg') }}" alt="Derek Donovan" class="w-50 mx-auto img-fluid rounded-circle">
         </div>
         <div class="text-black">
           <h3 class="font-weight-light h5">Derek Donovan</h3>
