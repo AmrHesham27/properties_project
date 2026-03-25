@@ -19,7 +19,7 @@
       <div class="row align-items-center justify-content-center">
         <div class="col-md-7 text-center" data-aos="fade-up" data-aos-delay="400">
           <h1 class="text-white">Contact Us</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+          <p>Speak with our rental specialists about available homes, viewing times, and landlord services.</p>
         </div>
       </div>
     </div>
@@ -91,8 +91,7 @@
   
           <div class="p-4 mb-3 bg-white">
             <h3 class="h5 text-black mb-3 text-black">More Info</h3>
-            <p class="text-black">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ad iure porro mollitia architecto hic
-              consequuntur. Distinctio nisi perferendis dolore, ipsa consectetur</p>
+            <p class="text-black">Whether you are looking for your next rental property or need support managing tenants, our team is here to provide clear advice, quick responses, and dependable service.</p>
             <p><a href="#" class="btn btn-primary  py-2 px-4">Learn More</a></p>
           </div>
         </div>
@@ -109,8 +108,7 @@
         <div class="col-lg-6">
           <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
           <h2 class="mb-5">Our Office</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, fugit nam obcaecati fuga itaque deserunt
-            officia, error reiciendis ab quod?</p>
+          <p>Visit our office to discuss listings, complete application steps, and get practical guidance from a team that knows the local rental market inside out.</p>
         </div>
         </div>
       </div>

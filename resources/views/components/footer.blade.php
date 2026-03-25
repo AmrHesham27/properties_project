@@ -29,7 +29,6 @@
                 <ul class="list-unstyled">
                   <li><a href="{{ route('index') }}">Home</a></li>
                   <li><a href="{{ route('properties') }}">Properties</a></li>
-                  <li><a href="{{ route('news') }}">News</a></li>
                   <li><a href="{{ route('about') }}">About Us</a></li>
                 </ul>
               </div>
@@ -59,7 +58,7 @@
           </div>
 
           <div class="col-lg-4 mb-5 mb-lg-0">
-            <div class="mb-5">
+            <!-- <div class="mb-5">
               <h3 class="footer-heading mb-4">Watch Live Streaming</h3>
 
               <div class="block-16">
@@ -69,7 +68,7 @@
                 </figure>
               </div>
 
-            </div>
+            </div> -->
 
             
 

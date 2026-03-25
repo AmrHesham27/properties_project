@@ -19,7 +19,7 @@
       <div class="row align-items-center justify-content-center">
         <div class="col-md-7 text-center" data-aos="fade-up" data-aos-delay="400">
           <h1 class="text-white">About Us</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+          <p>We are a dedicated rental agency helping tenants and landlords find the right match across trusted neighborhoods.</p>
         </div>
       </div>
     </div>
@@ -34,8 +34,7 @@
         <div class="col-lg-6">
           <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
           <h2 class="mb-5">Our Office</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, fugit nam obcaecati fuga itaque deserunt
-            officia, error reiciendis ab quod?</p>
+          <p>Our office is the hub for property viewings, tenant support, and landlord services, where our team guides every step of the rental journey with clear communication and local expertise.</p>
         </div>
         </div>
       </div>
@@ -48,8 +47,7 @@
       <div class="row">
         <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
           <h2 class="mb-5">Team</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, fugit nam obcaecati fuga itaque deserunt
-            officia, error reiciendis ab quod?</p>
+          <p>Our team combines market knowledge, responsive service, and hands-on support to make renting straightforward for both first-time tenants and experienced property owners.</p>
         </div>
       </div>
       <div class="row justify-content-center">

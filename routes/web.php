@@ -21,11 +21,3 @@ Route::get('/properties/{id}', [PropertyController::class, 'show'])->name('prope
 Route::get('/contact', function () {
     return view('contact');
 })->name('contact');
-
-Route::get('/news', function () {
-    return view('news');
-})->name('news');
-
-Route::get('/single', function () {
-    return view('single');
-})->name('single');

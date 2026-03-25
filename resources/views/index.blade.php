@@ -161,12 +161,12 @@
     
     
 
-    <div class="site-section bg-light">
+    <!-- <div class="site-section bg-light">
       <div class="container">
         <div class="row">
           <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto" data-aos="fade-up">
             <h2 class="mb-5">News &amp; Events</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, fugit nam obcaecati fuga itaque deserunt officia, error reiciendis ab quod?</p>
+            <p>Stay up to date with rental market insights, new listings, and practical advice for tenants and landlords from our local property team.</p>
           </div>
         </div>
         <div class="row">
@@ -196,7 +196,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="bg-primary" data-aos="fade">
       <div class="container">

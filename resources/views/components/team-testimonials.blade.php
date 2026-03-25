@@ -3,7 +3,7 @@
     <div class="row">
       <div class="site-section-heading text-center mb-5 w-border col-md-6 mx-auto">
         <h2 class="mb-5">Love By Our Customers</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, fugit nam obcaecati fuga itaque deserunt officia, error reiciendis ab quod?</p>
+        <p>Our tenants trust us to find homes that suit their lifestyle, budget, and schedule, and we work hard to make every move smooth from first viewing to move-in day.</p>
       </div>
     </div>
     <div class="nonloop-block-13 owl-carousel">

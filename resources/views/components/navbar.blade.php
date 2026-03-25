@@ -25,9 +25,6 @@
                   <li {{ request()->routeIs('properties') ? 'class=active' : '' }}>
                     <a href="{{ route('properties') }}">Properties</a>
                   </li>
-                  <li {{ request()->routeIs('news') ? 'class=active' : '' }}>
-                    <a href="{{ route('news') }}">News</a>
-                  </li>
                   <li {{ request()->routeIs('contact') ? 'class=active' : '' }}>
                     <a href="{{ route('contact') }}">Contact</a>
                   </li>
