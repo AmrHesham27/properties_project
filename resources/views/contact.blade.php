@@ -78,28 +78,28 @@
         <div class="col-lg-4 ml-auto">
           <div class="p-4 mb-3 bg-white">
             <h3 class="h5 text-black mb-3">Contact Info</h3>
-            <p class="mb-0 font-weight-bold text-black">Address</p>
-            <p class="mb-4 text-black">203 Fake St. Mountain View, San Francisco, California, USA</p>
+            <!-- <p class="mb-0 font-weight-bold text-black">Address</p>
+            <p class="mb-4 text-black">203 Fake St. Mountain View, San Francisco, California, USA</p> -->
   
             <p class="mb-0 font-weight-bold text-black">Phone</p>
-            <p class="mb-4"><a href="#">+1 232 3235 324</a></p>
+            <p class="mb-4"><a href="tel:+447736319892">+44 7736 319892</a></p>
   
             <p class="mb-0 font-weight-bold text-black">Email Address</p>
-            <p class="mb-0"><a href="#">youremail@domain.com</a></p>
+            <p class="mb-0"><a href="mailto:Sdonovan300@hotmail.com">Sdonovan300@hotmail.com</a></p>
   
           </div>
   
-          <div class="p-4 mb-3 bg-white">
+          <!-- <div class="p-4 mb-3 bg-white">
             <h3 class="h5 text-black mb-3 text-black">More Info</h3>
             <p class="text-black">Whether you are looking for your next rental property or need support managing tenants, our team is here to provide clear advice, quick responses, and dependable service.</p>
             <p><a href="#" class="btn btn-primary  py-2 px-4">Learn More</a></p>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
   </div>
 
-  <div class="site-section">
+  <!-- <div class="site-section">
     <div class="container">
       <div class="row">
         <div class="col-lg-6">
@@ -113,7 +113,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 
 
     
